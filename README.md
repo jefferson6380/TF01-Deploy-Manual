@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TF01-Deploy-Manual
 
 ## Aluno
