@@ -1,4 +1,5 @@
-# TF01 - SportMax Equipamentos Esportivos
+<<<<<<< HEAD
+# TF01-Deploy-Manual
 
 ## Aluno
 - *Nome:* Jefferson Nascimento
@@ -30,4 +31,3 @@ Páginas:
 - /sobre.html
 - /servicos.html
 - /contato.html
-
